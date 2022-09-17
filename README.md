@@ -7,7 +7,7 @@ TECNOLOGIAS DESENVOLVIDAS
 - NPM.
 
 FUNCIONAMENTO
-- Dentro da pasta raiz ("./react-to-do"), abrir o terminal e rodar os comandos "npm install" para instalar as dependências, e após o término "npm start" para iniciar o projeto.
+- Dentro da pasta raiz do projeto, abrir o terminal e rodar os comandos "npm install" para instalar as dependências, e após o término "npm start" para iniciar o projeto.
 
 PLATAFORMA
 - Udemy.
